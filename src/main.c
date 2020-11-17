@@ -9,6 +9,7 @@ void input(){
 
 void other(){
     printf("Dodik \n");
+    fflush(stdout);
 }
 
 int main(){
