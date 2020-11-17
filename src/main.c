@@ -8,7 +8,7 @@ void input(){
 }
 
 void other(){
-    printf("Dodik \n");
+    printf("just output \n");
     fflush(stdout);
     exit(0);
 }
